@@ -20,6 +20,6 @@ ReconScope is a cross-platform, non-root bug hunting and OSINT tool written in P
 ## 🛠 Installation
 
 ```bash
-git clone https://github.com/yourname/ReconScope.git
+git clone https://github.com/Shivay Codes/ReconScope.git
 cd ReconScope
 bash install.sh
